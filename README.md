@@ -40,8 +40,11 @@ Check it out here:
 ## 📁 Project Structure
 
 ├── index.html # Main webpage
+
 ├── style.css # Stylesheet
+
 ├── script.js # JavaScript logic
+
 ├── README.md # This file
 
 ---
